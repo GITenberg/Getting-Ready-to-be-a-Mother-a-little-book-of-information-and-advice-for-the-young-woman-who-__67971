@@ -1,0 +1,36 @@
+_repo: Getting-Ready-to-be-a-Mother-a-little-book-of-information-and-advice-for-the-young-woman-who-__67971
+_version: 0.0.1
+contributor:
+  commentators:
+  - agent_name: Rice, Frederick W.
+    gutenberg_agent_id: '54558'
+    url: http://www.gutenberg.org/2009/agents/54558
+  - agent_name: Edgar, J. Clifton
+    gutenberg_agent_id: '54557'
+    url: http://www.gutenberg.org/2009/agents/54557
+creator:
+  author:
+    agent_name: Van Blarcom, Carolyn Conant
+    alias: Blarcom, Carolyn Conant van
+    gutenberg_agent_id: '50352'
+    url: http://www.gutenberg.org/2009/agents/50352
+description: ''
+gutenberg_issued: '2022-05-02'
+identifiers:
+  gutenberg: '67971'
+language: en
+pgterms:marc904: https://archive.org/details/gettingreadytobe00vanbrich
+pgterms:marc905: 20190313170342vanblarcom
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :The Macmillan Company,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Getting Ready to be a Mother: a little book of information and advice for
+  the young woman who is looking forward to motherhood'
+url: http://www.gutenberg.org/ebooks/67971
